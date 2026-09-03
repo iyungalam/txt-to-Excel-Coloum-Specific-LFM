@@ -229,4 +229,3 @@ else:
         "Silakan unggah satu atau beberapa file .txt "
         "untuk memulai."
     )
-```
